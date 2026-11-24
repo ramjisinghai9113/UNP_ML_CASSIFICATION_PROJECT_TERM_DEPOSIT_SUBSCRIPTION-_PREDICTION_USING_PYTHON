@@ -136,5 +136,5 @@ The Random Forest was retrained on the 80/20 split and evaluated with a confusio
 - Cap or transform skewed features such as `balance` and `campaign`
 - Add feature-importance and SHAP analysis for interpretability
 
-Code Link: https://drive.google.com/file/d/1HP6pIDrRErPADFsXc74J8Cf2A7PUeMwi/view?usp=drive_link
-PPT Link: https://docs.google.com/presentation/d/10-TQH7bFDRWN6Fw5o3F2wfIiecwUEazd/edit?usp=drive_link&ouid=115260607757946087302&rtpof=true&sd=true
+Code Link:https://drive.google.com/file/d/1HP6pIDrRErPADFsXc74J8Cf2A7PUeMwi/view?usp=sharing
+PPT Link: https://docs.google.com/presentation/d/10-TQH7bFDRWN6Fw5o3F2wfIiecwUEazd/edit?usp=sharing&ouid=115260607757946087302&rtpof=true&sd=true
